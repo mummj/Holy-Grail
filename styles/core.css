@@ -1,0 +1,30 @@
+html{
+    height:100%;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
+header{
+    border:solid black 1px;
+    background-color: lightblue;
+}
+h1{
+    font-size: xx-large;
+    padding:10px;
+    text-align: center;
+    font-weight: bold;
+}
+aside{
+    width:33%;
+    height:600px;
+    background-color: lightblue;
+}
+div{
+    width:33%;
+    height: 600px;
+}
+section{
+    width:33%;
+    height: 600px;
+    background-color: lightblue;
+}
