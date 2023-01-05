@@ -16,15 +16,42 @@ h1{
 }
 aside{
     width:33%;
-    height:600px;
+    height:800px;
     background-color: lightblue;
 }
 div{
-    width:33%;
-    height: 600px;
+    width:33.2%;
+    height: 800px;
 }
 section{
-    width:33%;
-    height: 600px;
+    width: 33.2%;
+    height: 800px;
     background-color: lightblue;
+}
+li{
+    font-size: larger;
+    font-weight: bold;
+    padding:5px;
+}
+h2{
+    font-size: larger;
+    font-weight: bold;
+    padding: 5px;
+}
+p{
+    font-size: large;
+    padding:5px;
+}
+h3{
+    font-size: larger;
+    font-weight: bold;
+    padding:15px;
+}
+footer{
+    background-color: lightblue;
+    text-align: center;
+    padding:10px;
+    color:gray;
+    border:1px solid black;
+    border-top:none;
 }

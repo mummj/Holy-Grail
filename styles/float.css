@@ -1,0 +1,30 @@
+main{
+    display:inline-block;
+    vertical-align: top;
+}
+aside{
+    display:inline-block;
+    vertical-align: top;
+}
+div{
+    display: inline-block;
+    vertical-align: top;
+}
+section{
+    display: inline-block;
+    vertical-align: top;
+}
+h3{
+    position: relative;
+    top:35%;
+    text-align: center;
+}
+nav{
+    position: relative;
+    left:35%;
+    top:35%;
+}
+h2{
+    text-align: center;
+    margin-top: 10px;
+}
